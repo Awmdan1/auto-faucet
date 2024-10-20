@@ -5,7 +5,7 @@
     {
         "private_key": "PRIVATE_KEY_2"
     }
-] '''
+] 
 
 Jika ada masalah terkait port yang sudah digunakan, coba hentikan container yang berjalan dengan:
 

@@ -1,0 +1,10 @@
+[
+    {
+        "private_key": "private_key_akun_1",
+        "address": "alamat_akun_1"
+    },
+    {
+        "private_key": "private_key_akun_2",
+        "address": "alamat_akun_2"
+    }
+]
